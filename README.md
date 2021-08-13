@@ -91,7 +91,7 @@ xuzhenwendeMacBook-Pro:~ xuzhenwen$ TurnToCode -p /Users/xuzhenwen/Documents/许
 
 
 
-技术支持与bug反馈的联系方式 ： QQ 450010152
+技术支持与bug反馈的联系方式：QQ 450010152
 
 
 
